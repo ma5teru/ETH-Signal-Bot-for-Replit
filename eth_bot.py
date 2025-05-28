@@ -7,7 +7,7 @@ import requests
 import os
 
 # ====== CONFIG ======
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "7987565287:AAFsmfL_XLeQH7p-ciXOL363ebrFu12jlQg")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "x")
 CHAT_ID = os.getenv("CHAT_ID", "891612789")
 SYMBOL = 'ETH/USDT'
 TIMEFRAME = '5m'
